@@ -1,0 +1,36 @@
+# Ambiente virtual do Python
+venv/
+.env
+
+# Arquivos de configuração sensíveis
+*.env
+*.secrets
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Dados gerados
+*.json
+!furia_related_pages.json  # Exceção para manter o arquivo necessário no repositório
+*.csv
+
+# Configurações do Streamlit
+.streamlit/
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações do IDE
+.vscode/
+.idea/
+
+# Pasta de teste
+tests/
