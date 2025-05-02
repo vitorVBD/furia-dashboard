@@ -87,18 +87,18 @@ O **FURIA Minimap** é uma aplicação web que permite coletar e visualizar dado
 3. Crie e Configure o arquivo `.env` na raiz do projeto com suas chaves de API:
     ```bash
     # Twitter API
-  # https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api
-  TWITTER_API_KEY=your_api_key
-  TWITTER_API_KEY_SECRET=your_api_key_secret
-  TWITTER_BEARER_TOKEN=your_bearer_token
-  TWITTER_ACCESS_TOKEN=your_access_token
-  TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
+    # https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api
+    TWITTER_API_KEY=your_api_key
+    TWITTER_API_KEY_SECRET=your_api_key_secret
+    TWITTER_BEARER_TOKEN=your_bearer_token
+    TWITTER_ACCESS_TOKEN=your_access_token
+    TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
 
-  # Instagram API
-  # https://developers.facebook.com/docs/instagram-basic-display-api/getting-started
-  INSTAGRAM_APP_ID=seu_app_id
-  INSTAGRAM_APP_SECRET=seu_app_secret
-  INSTAGRAM_ACCESS_TOKEN=seu_access_token
+    # Instagram API
+    # https://developers.facebook.com/docs/instagram-basic-display-api/getting-started
+    INSTAGRAM_APP_ID=seu_app_id
+    INSTAGRAM_APP_SECRET=seu_app_secret
+    INSTAGRAM_ACCESS_TOKEN=seu_access_token
     ```
 
 4. Inicie, preencha e salve o formulário:
@@ -201,18 +201,18 @@ The **FURIA Minimap** is a web application that collects and visualizes data abo
 3. Create and Configure the `.env` file with your API keys in the root file:
     ```bash
     # Twitter API
-  # https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api
-  TWITTER_API_KEY=your_api_key
-  TWITTER_API_KEY_SECRET=your_api_key_secret
-  TWITTER_BEARER_TOKEN=your_bearer_token
-  TWITTER_ACCESS_TOKEN=your_access_token
-  TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
+    # https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api
+    TWITTER_API_KEY=your_api_key
+    TWITTER_API_KEY_SECRET=your_api_key_secret
+    TWITTER_BEARER_TOKEN=your_bearer_token
+    TWITTER_ACCESS_TOKEN=your_access_token
+    TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
 
-  # Instagram API
-  # https://developers.facebook.com/docs/instagram-basic-display-api/getting-started
-  INSTAGRAM_APP_ID=seu_app_id
-  INSTAGRAM_APP_SECRET=seu_app_secret
-  INSTAGRAM_ACCESS_TOKEN=seu_access_token
+    # Instagram API
+    # https://developers.facebook.com/docs/instagram-basic-display-api/getting-started
+    INSTAGRAM_APP_ID=seu_app_id
+    INSTAGRAM_APP_SECRET=seu_app_secret
+    INSTAGRAM_ACCESS_TOKEN=seu_access_token
     ```
 
 4. Start, fill out, and save the form:
