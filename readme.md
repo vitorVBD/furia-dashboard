@@ -250,6 +250,6 @@ This software is licensed under the terms of the MIT License.
 
 <div align="center">
 
-Developed by Vitor Bittencourt ☕
+Developed by [Vitor Bittencourt](https://linktr.ee/vv_bittencourt) ☕
 
 </div> 
